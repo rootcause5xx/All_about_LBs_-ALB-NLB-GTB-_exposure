@@ -1,1 +1,1 @@
-## This repo helps us understand the conecpt and implementation of how load balacers works and when to use which one.
+## This repo helps us understand the concept and implementation of how load balancers works and when to use which one.
